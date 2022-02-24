@@ -17,4 +17,4 @@ Here are some ideas to get you started: -->
 - 💬 Ask me about Web Development technologies
 - 📫 How to reach me: pathaksagar16@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am open to all the field of computer science as I want to explore the different areas of this field
+- ⚡ Fun fact: I am open to all the field of computer science as I would like to explore different areas corporate IT sector.
