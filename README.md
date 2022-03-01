@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 #Meet my friend Snaky
 ![snake gif](https://github.com/devops-sagar/devops-sagar/blob/output/github-contribution-grid-snake.svg)
 
-  <a href="https://www.sagarpathak.com" target="_top">www.sagarpathak.com</a>
+  <a href="https://www.sagarpathak.com">www.sagarpathak.com</a>
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning Deep Learning and its applications
