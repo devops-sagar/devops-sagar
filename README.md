@@ -1,3 +1,6 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=devops-sagar.devops-sagar)
+[![Github](https://img.shields.io/github/followers/devops-sagar?label=Follow&style=social)](https://github.com/devops-sagar)
+
 ### Hi there 👋
 
 <!--
@@ -35,3 +38,7 @@ Here are some ideas to get you started: -->
  <a href="https://www.linkedin.com/in/sagar097" target="_blank" rel="noopener noreferrer"> <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Logo.wine.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:pathaksagar16@gmail.com"> <img src="https://cdn0.iconfinder.com/data/icons/lumin-social-media-icons/512/Gmail-512.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+## Github Data:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-sagar&theme=cobalt2)
+
