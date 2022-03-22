@@ -20,9 +20,17 @@ Here are some ideas to get you started: -->
 - ⚡ Fun fact: I am open to all the field of computer science as I would like to explore different areas corporate IT sector.
 
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+</p>
+
+<br />
+## ✉ Find me on:
+<p align="center">
+ <a href="https://www.sagarpathak.com" target="_blank" rel="noopener noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/Terrestrial_globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/sagar097" target="_blank" rel="noopener noreferrer"> <img src="https://www.vhv.rs/viewpic/hToRbRx_linkedin-icon-twitter-logo-svg-hd-png-download/#" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:pathaksagar16@gmail.com"> <img src="https://image.pngaaa.com/144/874144-middle.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
