@@ -40,5 +40,5 @@ Here are some ideas to get you started: -->
 </p>
 
 ## Github Data:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-sagar&theme=cobalt2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)                          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-sagar&theme=cobalt2)
 
