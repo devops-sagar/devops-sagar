@@ -13,11 +13,11 @@ Here are some ideas to get you started: -->
 
   <a href="https://devops-sagar.github.io/portfolio">www.sagarpathak.com</a>
 
-- 🔭 I’m currently working on Data Science Projects
-- 🌱 I’m currently learning Deep Learning and its applications
+- 🔭 I’m currently working on my Software Engineering Skills
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on LeetCode to enhance coding skills
-- 🤔 I’m looking for help with finding an internship for summer 2022
-- 💬 Ask me about Web Development technologies
+- 🤔 I’m looking for the full-time positions available for New Grads Software Engineers.
+- 💬 Ask me about Computer Science and its applications
 - 📫 How to reach me: pathaksagar16@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am open to all the field of computer science as I would like to explore different areas corporate IT sector.
