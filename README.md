@@ -10,6 +10,8 @@ Here are some ideas to get you started: -->
 
 #Meet my friend Snaky
 ![snake gif](https://github.com/devops-sagar/devops-sagar/blob/output/github-contribution-grid-snake.svg)
+![ff](https://user-images.githubusercontent.com/54584388/221480646-20a1f76e-77d0-4865-b18f-317d6ee6fd0c.gif)
+
 
   <a href="https://devops-sagar.github.io/portfolio">www.sagarpathak.com</a>
 
@@ -40,5 +42,6 @@ Here are some ideas to get you started: -->
 </p>
 
 ## Github Data:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)                          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devops-sagar&theme=cobalt2)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)
+![gt](https://user-images.githubusercontent.com/54584388/221477525-950d86b6-02f1-4b47-a4a0-6d10ae647ed9.gif)
 
