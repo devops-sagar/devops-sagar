@@ -10,7 +10,10 @@ Here are some ideas to get you started: -->
 
 #Meet my friend Snaky
 ![snake gif](https://github.com/devops-sagar/devops-sagar/blob/output/github-contribution-grid-snake.svg)
-![ff](https://user-images.githubusercontent.com/54584388/221480646-20a1f76e-77d0-4865-b18f-317d6ee6fd0c.gif)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/54584388/221480646-20a1f76e-77d0-4865-b18f-317d6ee6fd0c.gif" style="vertical-align:top; margin:4px">
+</p>
+<!-- ![ff](https://user-images.githubusercontent.com/54584388/221480646-20a1f76e-77d0-4865-b18f-317d6ee6fd0c.gif) -->
 
 
   <a href="https://devops-sagar.github.io/portfolio">www.sagarpathak.com</a>
