@@ -1,21 +1,22 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=devops-sagar.devops-sagar)
 [![Github](https://img.shields.io/github/followers/devops-sagar?label=Follow&style=social)](https://github.com/devops-sagar)
 
-### Hi there 👋
+### Hi there 👋😃:
 
 <!--
 **devops-sagar/devops-sagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
 
-# Meet my friend Snaky
+# Meet my friend Snaky 🐍
 ![snake gif](https://github.com/devops-sagar/devops-sagar/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
 <img src="https://user-images.githubusercontent.com/54584388/221480646-20a1f76e-77d0-4865-b18f-317d6ee6fd0c.gif" style="vertical-align:top; margin:4px">
 </p>
 
-
-  <a href="https://devops-sagar.github.io/portfolio">www.sagarpathak.com</a>
+<p align="center">
+  <a href="https://devops-sagar.github.io/portfolio">Sagar Pathak</a>
+</p>  
 
 - 🔭 I’m currently working on my Software Engineering Skills
 - 🌱 I’m currently learning Data Structures and Algorithms
