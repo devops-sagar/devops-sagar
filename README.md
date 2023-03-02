@@ -45,6 +45,13 @@ Here are some ideas to get you started: -->
 </p>
 
 ## Github Data:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)
-![gt](https://user-images.githubusercontent.com/54584388/221477525-950d86b6-02f1-4b47-a4a0-6d10ae647ed9.gif)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr)   -->
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devops-sagar&show_icons=true&theme=codeSTACKr" width="400"/>
+  <img src="https://user-images.githubusercontent.com/54584388/221477525-950d86b6-02f1-4b47-a4a0-6d10ae647ed9.gif" width="400" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/54584388/222298401-aeb1aa3d-c910-4a3c-9edf-5e85bde3f008.gif" />
+<!--   <img src="https://user-images.githubusercontent.com/54584388/222294975-cc3f35a0-21ce-4335-b01e-30654779bb24.gif" width="400" />  -->
+</p>
