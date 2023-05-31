@@ -23,7 +23,7 @@ Here are some ideas to get you started: -->
 - 👯 I’m looking to collaborate on my DSA repository to enhance coding skills.
 - 🤔 I’m always be ready to contribute in the given projects with the best of my ability.
 - 💬 Ask me about Software Engineering, Communication and leadership skills
-- 📫 How to reach me: pathaksagar16@gmail.com
+- 📫 How to reach me: pathaksagar16@gmail.com & www.linkedin.com/in/sagar097
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to build PC from scratch and I love Linux on any other OS.
 
