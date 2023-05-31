@@ -18,14 +18,14 @@ Here are some ideas to get you started: -->
   <a href="https://devops-sagar.github.io/portfolio">Sagar Pathak</a>
 </p>  
 
-- 🔭 I’m currently working on Models related to Artificial Intelligence
-- 🌱 I’m continuously learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on my DSA repository to enhance coding skills
-- 🤔 I’m looking for the full-time positions available for New Grads Software Engineers
-- 💬 Ask me about Computer Science and its applications
+- 🔭 I’m currently working as a Software Developer at TCS.
+- 🌱 I’m continuously learning Data Structures and Algorithms along with Software Engineering.
+- 👯 I’m looking to collaborate on my DSA repository to enhance coding skills.
+- 🤔 I’m always be ready to contribute in the given projects with the best of my ability.
+- 💬 Ask me about Software Engineering, Communication and leadership skills
 - 📫 How to reach me: pathaksagar16@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like to make VR games
+- ⚡ Fun fact: I like to build PC from scratch and I love Linux on any other OS.
 
 
 ## Languages and Tools:
